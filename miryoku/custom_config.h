@@ -12,9 +12,6 @@ U_NP,              U_NP,              U_LT(U_MEDIA, ESC),U_LT(U_NAV, TAB),U_LT(U
 #define U_BUTTON U_NUM
 
 #define U_BASE   0
-// #define U_EXTRA  1
-// #define U_TAP    2
-// #define U_BUTTON 3
 #define U_NAV    1
 #define U_MOUSE  2
 #define U_MEDIA  3
